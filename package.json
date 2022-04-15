@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiennguyenace/nodejs_blog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "blog"
+  ],
+  "author": "tiennguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiennguyenace/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/tiennguyenace/nodejs_blog#readme"
+}
